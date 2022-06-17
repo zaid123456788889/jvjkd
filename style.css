@@ -1,0 +1,49 @@
+.heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    background-color: white;
+}
+.testone{
+    background: orange;
+    padding: 40px;
+    margin-top: 50px;
+}
+.sub{
+    color: beige;
+    background-color: rgb(61, 61, 153);
+    width: 200px;
+    font-family: monospace;
+}
+h1{
+    color: red;
+}
+.copy_right_footer{
+    float: right;
+    line-height: 3;
+    width: 100%;
+    background-color: black;
+    bottom: 0;
+    color: lime;
+    position: fixed;
+}
+#imgone{
+
+    float: left;
+
+}
+.main{
+    padding: 0px;
+}
+h2{
+    background-color: lime;
+    padding: 10px;
+    border-radius: 100px;
+}
+.resu{
+    font-size: 20;
+}
+.testtwo{
+    background-color: blue;
+    padding: 40px;
+    margin-top: 50px;
+}
